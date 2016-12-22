@@ -1,0 +1,8 @@
+1) What is the purpose of a splitter? Can it be used to join wires?
+	* It is often useful to access each of the bits from the input individually. The splitter tool allows to route different bits in different directions.
+	* Splitter can be used to join wires.
+ 2) Why are tunnels useful?
+	* Tunnels are a very useful organizational tool to use when making circuits. They can be thought of as invisible wires; two wires with matching labels will act as if they are connected by a wire. They are not something that exist in real life but rather can be used to tidy up your circuits
+ 3) What is the output of your circuit when you give it an input of 010? How about an input of 100? 
+	* 010: 0 (windy - no umbrella)
+	* 100: 1 (advice - yes umbrella)
